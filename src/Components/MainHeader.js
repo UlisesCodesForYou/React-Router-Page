@@ -1,4 +1,4 @@
-import { NavLink } from "react-router-dom";
+import { NavLink } from "react-router-dom"; // NavLink is better used for link styling.  That way the user can see which page they're in. 
 
 import classes from "./MainHeader.module.css";
 
